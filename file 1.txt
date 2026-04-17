@@ -1,3 +1,7 @@
+materi perkuliahan
+- kontrak kuliah
+- pertemuan 1
+
 materi pertemuan kedua sim :
 - koneksi data dari sql ke r
 - visualisasi data
